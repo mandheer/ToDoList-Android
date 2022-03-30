@@ -7,7 +7,7 @@ Learning Video: [Tutorial Video][Youtube]
 Original Example GitRepo: [GitRepo][initialRepo]
 Philipp's Kotlin Crash Course (Traversy Media): [CrashCourse][PhilippLink]
 
-PS: Credits are kept as is. Please email to [Mandheer][email] if you link to add your name or any modification is needed.
+PS: Credits are kept as is. Please email to [Mandheer][email] if you like to add your name or any modification is needed.
 
 [Youtube]: https://www.youtube.com/watch?v=BBWyXo-3JGQ "YouTube Channel video link"
 [initialRepo]: https://github.com/philipplackner/TodoList "Original repo"
